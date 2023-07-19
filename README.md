@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Vision, GANs, and Diffusion Models
 - 👯 I’m looking to collaborate on GenAI Research topics
 - 🤔 I’m looking for help in advanced Computer Vision, like Diffusion Models
-- 💬 Ask me about Data Science, ML algorithms, NLP, LLMs, LangChain, Pinecone
+- 💬 Ask me about Data Science, Statistics, ML algorithms, NLP, LLMs, LangChain, Pinecone
 - 📫 Reach me on kousik712417@gmail.com
 
   
