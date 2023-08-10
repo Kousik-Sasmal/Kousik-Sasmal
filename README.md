@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on DataKnobs as an `ML engineer intern`
+- 🔭 I’m currently working on DataKnobs as a `Data Science intern`
 - 🌱 I’m currently learning Computer Vision, GANs, and Diffusion Models
 - 👯 I’m looking to collaborate on GenAI Research topics
-- 🤔 I’m looking for help in advanced Computer Vision, like Diffusion Models
-- 💬 Ask me about Data Science, Statistics, ML algorithms, NLP, LLMs, LangChain, Pinecone
+- 🤔 I’m looking for help in advanced Computer Vision, like GANs, and Diffusion Models
+- 💬 Ask me about Data Science, Statistics, ML algorithms, NLP, LLMs, LangChain, Pinecone, Chroma DB
 - 📫 Reach me on kousik712417@gmail.com
 
   
