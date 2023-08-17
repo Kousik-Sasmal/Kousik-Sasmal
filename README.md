@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on DataKnobs as a `Data Science intern`
+- 🔭 I’m currently working at DataKnobs as a `Data Science intern`
 - 🌱 I’m currently learning Computer Vision, GANs, and Diffusion Models
 - 👯 I’m looking to collaborate on GenAI Research topics
 - 🤔 I’m looking for help in advanced Computer Vision, like GANs, and Diffusion Models
