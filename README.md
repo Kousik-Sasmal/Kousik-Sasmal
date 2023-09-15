@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at `GENIE AI` <here="blog.in"> as a `ML Engineer`
+- 🔭 I’m currently working at [GENIE AI](https://www.genieai.io/) as a `ML Engineer`
 - 🌱 I’m currently learning Computer Vision, GANs, and Diffusion Models
 - 👯 I’m looking to collaborate on GenAI Research topics
 - 🤔 I’m looking for help in advanced Computer Vision, like GANs, and Diffusion Models
