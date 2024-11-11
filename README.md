@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working at [GENIE AI](https://www.genieai.io/) as a `ML Engineer`
-- 🌱 I’m currently learning Computer Vision, GANs, and Diffusion Models
+- 🔭 I’m currently working at `NEURONS AI` as a `ML Engineer`
+- 🌱 I’m currently working on RAG, Agents, and Chatbot.
 - 👯 I’m looking to collaborate on GenAI Research topics
 - 🤔 I’m looking for help in advanced Computer Vision, like GANs, and Diffusion Models
 - 💬 Ask me about Data Science, Statistics, ML algorithms, NLP, LLMs, LangChain, Pinecone, Chroma DB
